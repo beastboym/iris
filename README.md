@@ -1,2 +1,0 @@
-# iris
-k-moyennes iris
